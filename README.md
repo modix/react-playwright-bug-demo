@@ -11,7 +11,7 @@ git clone <repository-url>
 
 2. Navigate to the project directory:
 ```bash
-cd react-playwright-example
+cd react-playwright-bug-demo
 ```
 
 3. Install the dependencies:
