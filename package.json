@@ -1,0 +1,33 @@
+{
+  "name": "react-playwright-example",
+  "version": "1.0.0",
+  "description": "A minimal example project with React and Playwright",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.52.0",
+    "react-scripts": "5.0.1",
+    "start-server-and-test": "2.0.11"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
